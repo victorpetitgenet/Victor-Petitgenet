@@ -1,0 +1,26 @@
+div {
+	margin: auto;
+	width: 100%;
+	text-align: center
+}
+
+body {
+	margin: 0;
+	background: black;
+	font-family: 'Overpass', sans-serif;
+	color: white;
+}
+
+#return {
+	width: fit-content;
+	height: fit-content;
+	border: 2px solid white;
+	margin: 1% auto 1% auto;
+	text-align: center;
+	padding: 1%;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
