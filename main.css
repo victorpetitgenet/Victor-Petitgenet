@@ -142,6 +142,16 @@ nav ul li {
 	margin: 0 0.5%;
 }
 
+#skills {
+	margin: 0 0.5%;
+}
+
+#skills div li {
+	list-style-type: circle;
+	margin: auto;
+	text-align: center;
+}
+
 #downloadcv {
 	width: fit-content;
 	height: fit-content;
