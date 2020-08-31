@@ -16,6 +16,12 @@
 	opacity: 0.5;
 }
 
+#homeheader img {
+	vertical-align: bottom;
+	padding-bottom: 12px;
+
+}
+
 nav h1 {
 	margin: 1%;
 	font-size: 35px;
